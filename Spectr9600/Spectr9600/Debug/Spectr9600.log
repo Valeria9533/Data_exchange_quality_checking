@@ -1,0 +1,11 @@
+﻿  MyForm.cpp
+c:\users\hp\source\repos\spectr9600\spectr9600\myform.h(693): warning C4333: >>: слишком большое смещение вправо; потеря данных
+c:\users\hp\source\repos\spectr9600\spectr9600\myform.h(722): warning C4244: =: преобразование "float" в "unsigned short", возможна потеря данных
+c:\users\hp\source\repos\spectr9600\spectr9600\myform.h(777): warning C4244: =: преобразование "float" в "unsigned short", возможна потеря данных
+c:\users\hp\source\repos\spectr9600\spectr9600\myform.h(838): warning C4244: =: преобразование "float" в "unsigned short", возможна потеря данных
+c:\users\hp\source\repos\spectr9600\spectr9600\myform.h(895): warning C4244: =: преобразование "unsigned short" в "unsigned char", возможна потеря данных
+c:\users\hp\source\repos\spectr9600\spectr9600\myform.h(932): warning C4244: =: преобразование "float" в "unsigned short", возможна потеря данных
+c:\users\hp\source\repos\spectr9600\spectr9600\myform.h(936): warning C4244: =: преобразование "float" в "unsigned short", возможна потеря данных
+c:\users\hp\source\repos\spectr9600\spectr9600\myform.cpp(8): warning C4829: Возможно, неправильные параметры функции main. Рекомендуемый вариант - "int main(Platform::Array<Platform::String^>^ argv)"
+LINK : warning LNK4075: не учитывается "/INCREMENTAL" из-за спецификации "/FORCE"
+  Spectr9600.vcxproj -> C:\Users\HP\source\repos\Spectr9600\Debug\Spectr9600.exe
