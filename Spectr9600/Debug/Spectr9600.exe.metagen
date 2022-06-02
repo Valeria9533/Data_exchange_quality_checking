@@ -24,3 +24,4 @@ Class Spectr9600.MyForm: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
     DataReceived(): PrivateScope, Public, HideBySig
     DispValues(): PrivateScope, Public, HideBySig
     DispRxData(): PrivateScope, Public, HideBySig
+    DispTxData(): PrivateScope, Public, HideBySig
