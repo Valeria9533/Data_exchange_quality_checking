@@ -1,4 +1,4 @@
 # RS-232_communication
-Data exchange quality testing. Visual Studio C++
+Terminal (Windows app) with data exchange quality testing
 
-Terminal (Windows app)
+Visual Studio C++
