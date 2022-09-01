@@ -1,7 +1,0 @@
-﻿  MyForm.cpp
-c:\users\hp\source\repos\spectr9600\spectr9600\myform.h(765): warning C4333: >>: слишком большое смещение вправо; потеря данных
-c:\users\hp\source\repos\spectr9600\spectr9600\myform.h(850): warning C4244: =: преобразование "float" в "unsigned short", возможна потеря данных
-c:\users\hp\source\repos\spectr9600\spectr9600\myform.h(911): warning C4244: =: преобразование "unsigned short" в "unsigned char", возможна потеря данных
-c:\users\hp\source\repos\spectr9600\spectr9600\myform.h(947): warning C4244: =: преобразование "float" в "unsigned short", возможна потеря данных
-c:\users\hp\source\repos\spectr9600\spectr9600\myform.cpp(8): warning C4829: Возможно, неправильные параметры функции main. Рекомендуемый вариант - "int main(Platform::Array<Platform::String^>^ argv)"
-  Spectr9600.vcxproj -> C:\Users\HP\source\repos\Spectr9600\Release\Spectr9600.exe
