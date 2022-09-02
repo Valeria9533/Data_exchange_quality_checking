@@ -1,6 +1,6 @@
 This sofware is developed for radio-communication quality checks. 
 
-It can also be used as a general data receiving/transmission terminal (via UART, RS-232, RS-485).
+It can also be used as a general data receiving/transmission terminal (via UART/RS).
 
 Baudrate ranges from 1200 to 115200 baud. If you don't set this parameter, it will be 9600 baud as a default.
 
