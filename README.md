@@ -7,7 +7,7 @@ Baudrate ranges from 1200 to 115200 baud. If you don't set this parameter, it wi
 (Windows app, but can be run in Linux using Wine)
 
 Description:
-1. Set addresses of devices, then click "Connect" and choose COM-port
+1. Set addresses of devices (preferably not use address 2), then click "Connect" and choose COM-port
 2. Set baudrate
 3. Set transmission interval
 4. Choose the mode (master or slave)
