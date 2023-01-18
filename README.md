@@ -18,5 +18,5 @@ If you have chosen "slave" mode, device will automatically switch to the data pa
 
 After each receiving package in both modes program will calculate number of sent packages (for master mode), numbers of received packages with right and wrongs checksums, number of errors and data exchange quality in %.
 
-On the left side there are windows, where you can see transmitted data (for master mode) and received data (for both modes).
+On the left side there are windows, where you can see transmitted data (for "master" mode) and received data (for both modes).
 Below there is a "Manual mode" window for sending custom packages. 
